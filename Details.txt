@@ -1,0 +1,15 @@
+
+-routes:
+
+-sign in 
+    |
+    ------ Home page (stats)
+    |
+    -------Drowsiness detection
+
+Home page: (separated by radio? or button)
+- Hourly chart (line graph) - session state
+- Weekly chart (bar chart) - find average (update session state?)
+when click turn off, take data, calc average, then put into csv, then read csv for time and update graph
+
+
